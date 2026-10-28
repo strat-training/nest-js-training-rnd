@@ -46,7 +46,9 @@ Must include:
 6. OpenAPI docs that include the new routes.
 7. New methods on your typed client from M8.
 8. Unit tests, e2e tests, and type tests for everything new.
-9. A short README explaining the main type decisions you made.
+9. A short `README.md` **inside your capstone project's own repository** explaining the main type
+   decisions you made (not `write-up-template.md` — that file stays in this training repo as your
+   checkpoint evidence; draw on it, but write the actual README as a real file in your project).
 10. **One injected feature outside the M1–M9 curriculum:** typed, real-time notifications for
     task/comment/label events, built with NestJS's WebSocket Gateway support. No module in this
     course teaches this — research NestJS's real-time/Gateway support yourself and design a typed

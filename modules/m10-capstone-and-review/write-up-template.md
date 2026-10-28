@@ -3,8 +3,9 @@
 > Fill this in **as you build**, not after you're done — see
 > [the Build-to-Teach framework](../../docs/build-to-teach-framework.md) on why. This is both your
 > scoring evidence and the draft source for `module_10.md`, the file a future trainee will actually
-> read. Unlike M1–M9, this write-up is also your README deliverable requirement (#9) — write it so
-> it can serve both purposes.
+> read. This file stays here in the training repo — it is **not** deliverable #9's README. Draw on
+> what you write here to write that README as a real file inside your capstone project's own
+> (separate) repository.
 
 ## Overview
 

@@ -73,8 +73,9 @@ applying everything from M1–M9.
 - [ ] Fill in `write-up-template.md`'s "What I'd do differently" section.
 - [ ] Fill in `write-up-template.md`'s "Checkpoint evidence" section, mapping each of the 10
       required deliverables to where it's satisfied.
-- [ ] Confirm `write-up-template.md` is complete enough to serve as deliverable #9's required
-      README explaining your main type decisions.
+- [ ] Write `README.md` **inside your capstone project's own (separate) repository** explaining
+      your main type decisions (deliverable #9) — draw on `write-up-template.md`'s content, but
+      this is a real file in your project, not `write-up-template.md` itself.
 - [ ] Author `module_10.md` (teaching material for the content library), once write-up-template.md
       is filled in and your build passes VALIDATE: draw the lesson from write-up-template.md's
       "How to build it," "Concepts worth explaining," and "Why it's built this way" sections (not

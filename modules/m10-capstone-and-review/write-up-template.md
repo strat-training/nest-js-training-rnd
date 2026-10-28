@@ -1,11 +1,13 @@
 # Write-up — M10 Capstone and Review
 
-> Fill this in **as you build**, not after you're done — see
-> [the Build-to-Teach framework](../../docs/build-to-teach-framework.md) on why. This is both your
-> scoring evidence and the draft source for `module_10.md`, the file a future trainee will actually
-> read. This file stays here in the training repo — it is **not** deliverable #9's README. Draw on
-> what you write here to write that README as a real file inside your capstone project's own
-> (separate) repository.
+**Project repo:** <link to your separate capstone repo>
+
+> Fill this in **as you build**, not after you're done — a write-up finished after the system
+> already works tends to be thin, and it's what makes your checkpoint review meaningful. This is
+> both your scoring evidence and the draft source for `module_10.md`, the file a future trainee
+> will actually read. This file stays here in the training repo — it is **not** deliverable #9's
+> README. Draw on what you write here to write that README as a real file inside your capstone
+> project's own (separate) repository.
 
 ## Overview
 

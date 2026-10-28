@@ -1,7 +1,10 @@
 # Write-up — M1 NestJS for Express Developers
 
-> Fill this in **as you build**, not after you're done — see
-> [the Build-to-Teach framework](../../docs/build-to-teach-framework.md) on why. This is both your
+**Project repo:** <link to your Team Tasks API repo>
+
+> Fill this in **as you build**, not after you're done — a write-up finished after the
+> system already works tends to be thin, and it's what makes your checkpoint review meaningful.
+> This is both your
 > checkpoint evidence and the draft source for `module_01.md`, the file a future trainee will
 > actually read.
 

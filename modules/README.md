@@ -1,7 +1,6 @@
 # Team Tasks API — Module Guides
 
-Trainee's copy for the *Advanced TypeScript with NestJS* course. Built under the
-[Build-to-Teach framework](../docs/build-to-teach-framework.md): you build each stage of the
+Trainee's copy for the *Advanced TypeScript with NestJS* course. You build each stage of the
 **Team Tasks API** for real, write up how you did it as you go, and what you produce becomes the
 teaching material for the next cohort.
 
